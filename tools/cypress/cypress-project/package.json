@@ -1,0 +1,14 @@
+{
+  "name": "cypress-project",
+  "version": "1.0.0",
+  "description": "cypress-project-demo",
+  "main": "y",
+  "scripts": {
+    "test": "y"
+  },
+  "author": "jiranliao",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.17.4"
+  }
+}
